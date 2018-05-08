@@ -1,0 +1,2 @@
+C:\Users\andre\Desktop\C# & .NET - Algebra\az4\AlgebraZadaci4\ConsoleApplication1\obj\Debug\AlgebraZadaci5.csprojResolveAssemblyReference.cache
+C:\Users\andre\Desktop\C# & .NET - Algebra\az4\AlgebraZadaci4\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config

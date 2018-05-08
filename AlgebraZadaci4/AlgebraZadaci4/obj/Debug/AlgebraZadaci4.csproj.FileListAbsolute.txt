@@ -1,0 +1,12 @@
+C:\Users\andre\AppData\Local\Temporary Projects\AlgebraZadaci4\bin\Debug\AlgebraZadaci4.exe.config
+C:\Users\andre\AppData\Local\Temporary Projects\AlgebraZadaci4\obj\Debug\AlgebraZadaci4.csprojResolveAssemblyReference.cache
+C:\Users\andre\AppData\Local\Temporary Projects\AlgebraZadaci4\bin\Debug\AlgebraZadaci4.exe
+C:\Users\andre\AppData\Local\Temporary Projects\AlgebraZadaci4\bin\Debug\AlgebraZadaci4.pdb
+C:\Users\andre\AppData\Local\Temporary Projects\AlgebraZadaci4\obj\Debug\AlgebraZadaci4.exe
+C:\Users\andre\AppData\Local\Temporary Projects\AlgebraZadaci4\obj\Debug\AlgebraZadaci4.pdb
+C:\Users\andre\Desktop\C# & .NET - Algebra\az4\AlgebraZadaci4\AlgebraZadaci4\bin\Debug\AlgebraZadaci4.exe.config
+C:\Users\andre\Desktop\C# & .NET - Algebra\az4\AlgebraZadaci4\AlgebraZadaci4\obj\Debug\AlgebraZadaci4.exe
+C:\Users\andre\Desktop\C# & .NET - Algebra\az4\AlgebraZadaci4\AlgebraZadaci4\obj\Debug\AlgebraZadaci4.pdb
+C:\Users\andre\Desktop\C# & .NET - Algebra\az4\AlgebraZadaci4\AlgebraZadaci4\bin\Debug\AlgebraZadaci4.exe
+C:\Users\andre\Desktop\C# & .NET - Algebra\az4\AlgebraZadaci4\AlgebraZadaci4\bin\Debug\AlgebraZadaci4.pdb
+C:\Users\andre\Desktop\C# & .NET - Algebra\az4\AlgebraZadaci4\AlgebraZadaci4\obj\Debug\AlgebraZadaci4.csprojResolveAssemblyReference.cache

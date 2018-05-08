@@ -1,0 +1,10 @@
+C:\Users\andre\AppData\Local\Temporary Projects\AlgebraZadaci5\bin\Debug\AlgebraZadaci5.exe.config
+C:\Users\andre\AppData\Local\Temporary Projects\AlgebraZadaci5\bin\Debug\AlgebraZadaci5.exe
+C:\Users\andre\AppData\Local\Temporary Projects\AlgebraZadaci5\bin\Debug\AlgebraZadaci5.pdb
+C:\Users\andre\AppData\Local\Temporary Projects\AlgebraZadaci5\obj\Debug\AlgebraZadaci5.exe
+C:\Users\andre\AppData\Local\Temporary Projects\AlgebraZadaci5\obj\Debug\AlgebraZadaci5.pdb
+C:\Users\andre\Desktop\C# & .NET - Algebra\az4\AlgebraZadaci5\AlgebraZadaci5\bin\Debug\AlgebraZadaci5.exe.config
+C:\Users\andre\Desktop\C# & .NET - Algebra\az4\AlgebraZadaci5\AlgebraZadaci5\obj\Debug\AlgebraZadaci5.exe
+C:\Users\andre\Desktop\C# & .NET - Algebra\az4\AlgebraZadaci5\AlgebraZadaci5\obj\Debug\AlgebraZadaci5.pdb
+C:\Users\andre\Desktop\C# & .NET - Algebra\az4\AlgebraZadaci5\AlgebraZadaci5\bin\Debug\AlgebraZadaci5.exe
+C:\Users\andre\Desktop\C# & .NET - Algebra\az4\AlgebraZadaci5\AlgebraZadaci5\bin\Debug\AlgebraZadaci5.pdb

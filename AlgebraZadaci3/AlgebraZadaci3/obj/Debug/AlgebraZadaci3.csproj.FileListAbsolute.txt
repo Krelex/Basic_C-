@@ -1,0 +1,12 @@
+C:\Users\andre\AppData\Local\Temporary Projects\AlgebraZadaci3\bin\Debug\AlgebraZadaci3.exe.config
+C:\Users\andre\AppData\Local\Temporary Projects\AlgebraZadaci3\bin\Debug\AlgebraZadaci3.exe
+C:\Users\andre\AppData\Local\Temporary Projects\AlgebraZadaci3\bin\Debug\AlgebraZadaci3.pdb
+C:\Users\andre\AppData\Local\Temporary Projects\AlgebraZadaci3\obj\Debug\AlgebraZadaci3.csprojResolveAssemblyReference.cache
+C:\Users\andre\AppData\Local\Temporary Projects\AlgebraZadaci3\obj\Debug\AlgebraZadaci3.exe
+C:\Users\andre\AppData\Local\Temporary Projects\AlgebraZadaci3\obj\Debug\AlgebraZadaci3.pdb
+C:\Users\andre\Desktop\C# & .NET - Algebra\POKUSAJ\AlgebraZadaci3\AlgebraZadaci3\bin\Debug\AlgebraZadaci3.exe.config
+C:\Users\andre\Desktop\C# & .NET - Algebra\POKUSAJ\AlgebraZadaci3\AlgebraZadaci3\obj\Debug\AlgebraZadaci3.exe
+C:\Users\andre\Desktop\C# & .NET - Algebra\POKUSAJ\AlgebraZadaci3\AlgebraZadaci3\obj\Debug\AlgebraZadaci3.pdb
+C:\Users\andre\Desktop\C# & .NET - Algebra\POKUSAJ\AlgebraZadaci3\AlgebraZadaci3\bin\Debug\AlgebraZadaci3.exe
+C:\Users\andre\Desktop\C# & .NET - Algebra\POKUSAJ\AlgebraZadaci3\AlgebraZadaci3\bin\Debug\AlgebraZadaci3.pdb
+C:\Users\andre\Desktop\C# & .NET - Algebra\POKUSAJ\AlgebraZadaci3\AlgebraZadaci3\obj\Debug\AlgebraZadaci3.csprojResolveAssemblyReference.cache
