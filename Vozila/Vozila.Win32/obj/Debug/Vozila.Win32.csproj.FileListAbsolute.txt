@@ -1,0 +1,33 @@
+D:\ASP0218\CSharp\Dan06\Vozila\Vozila.Win32\bin\Debug\Vozila.Win32.exe.config
+D:\ASP0218\CSharp\Dan06\Vozila\Vozila.Win32\bin\Debug\Vozila.Win32.exe
+D:\ASP0218\CSharp\Dan06\Vozila\Vozila.Win32\bin\Debug\Vozila.Win32.pdb
+D:\ASP0218\CSharp\Dan06\Vozila\Vozila.Win32\obj\Debug\Vozila.Win32.csprojResolveAssemblyReference.cache
+D:\ASP0218\CSharp\Dan06\Vozila\Vozila.Win32\obj\Debug\Vozila.Win32.Form1.resources
+D:\ASP0218\CSharp\Dan06\Vozila\Vozila.Win32\obj\Debug\Vozila.Win32.Properties.Resources.resources
+D:\ASP0218\CSharp\Dan06\Vozila\Vozila.Win32\obj\Debug\Vozila.Win32.csproj.GenerateResource.Cache
+D:\ASP0218\CSharp\Dan06\Vozila\Vozila.Win32\obj\Debug\Vozila.Win32.exe
+D:\ASP0218\CSharp\Dan06\Vozila\Vozila.Win32\obj\Debug\Vozila.Win32.pdb
+D:\ASP0218\CSharp\Dan06\Vozila\Vozila.Win32\bin\Debug\Vozila.Model.dll
+D:\ASP0218\CSharp\Dan06\Vozila\Vozila.Win32\bin\Debug\Vozila.Model.pdb
+C:\Users\andre\Desktop\Vozila\Vozila.Win32\bin\Debug\Vozila.Win32.exe.config
+C:\Users\andre\Desktop\Vozila\Vozila.Win32\obj\Debug\Vozila.Win32.exe
+C:\Users\andre\Desktop\Vozila\Vozila.Win32\obj\Debug\Vozila.Win32.pdb
+C:\Users\andre\Desktop\Vozila\Vozila.Win32\bin\Debug\Vozila.Win32.exe
+C:\Users\andre\Desktop\Vozila\Vozila.Win32\bin\Debug\Vozila.Win32.pdb
+C:\Users\andre\Desktop\Vozila\Vozila.Win32\bin\Debug\Vozila.Model.dll
+C:\Users\andre\Desktop\Vozila\Vozila.Win32\bin\Debug\Vozila.Model.pdb
+C:\Users\andre\Desktop\Vozila\Vozila.Win32\obj\Debug\Vozila.Win32.csprojResolveAssemblyReference.cache
+C:\Users\andre\Desktop\Vozila\Vozila.Win32\obj\Debug\Vozila.Win32.Form1.resources
+C:\Users\andre\Desktop\Vozila\Vozila.Win32\obj\Debug\Vozila.Win32.Properties.Resources.resources
+C:\Users\andre\Desktop\Vozila\Vozila.Win32\obj\Debug\Vozila.Win32.csproj.GenerateResource.Cache
+C:\Users\andre\Desktop\C# & .NET - Algebra\AlgebraZadaciZbirka\Vozila\Vozila.Win32\bin\Debug\Vozila.Win32.exe.config
+C:\Users\andre\Desktop\C# & .NET - Algebra\AlgebraZadaciZbirka\Vozila\Vozila.Win32\obj\Debug\Vozila.Win32.exe
+C:\Users\andre\Desktop\C# & .NET - Algebra\AlgebraZadaciZbirka\Vozila\Vozila.Win32\obj\Debug\Vozila.Win32.pdb
+C:\Users\andre\Desktop\C# & .NET - Algebra\AlgebraZadaciZbirka\Vozila\Vozila.Win32\bin\Debug\Vozila.Win32.exe
+C:\Users\andre\Desktop\C# & .NET - Algebra\AlgebraZadaciZbirka\Vozila\Vozila.Win32\bin\Debug\Vozila.Win32.pdb
+C:\Users\andre\Desktop\C# & .NET - Algebra\AlgebraZadaciZbirka\Vozila\Vozila.Win32\bin\Debug\Vozila.Model.dll
+C:\Users\andre\Desktop\C# & .NET - Algebra\AlgebraZadaciZbirka\Vozila\Vozila.Win32\bin\Debug\Vozila.Model.pdb
+C:\Users\andre\Desktop\C# & .NET - Algebra\AlgebraZadaciZbirka\Vozila\Vozila.Win32\obj\Debug\Vozila.Win32.csprojResolveAssemblyReference.cache
+C:\Users\andre\Desktop\C# & .NET - Algebra\AlgebraZadaciZbirka\Vozila\Vozila.Win32\obj\Debug\Vozila.Win32.Form1.resources
+C:\Users\andre\Desktop\C# & .NET - Algebra\AlgebraZadaciZbirka\Vozila\Vozila.Win32\obj\Debug\Vozila.Win32.Properties.Resources.resources
+C:\Users\andre\Desktop\C# & .NET - Algebra\AlgebraZadaciZbirka\Vozila\Vozila.Win32\obj\Debug\Vozila.Win32.csproj.GenerateResource.Cache

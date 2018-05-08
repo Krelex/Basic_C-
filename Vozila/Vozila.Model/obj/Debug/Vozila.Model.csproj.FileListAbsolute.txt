@@ -1,0 +1,14 @@
+D:\ASP0218\CSharp\Dan06\Vozila\Vozila.Model\bin\Debug\Vozila.Model.dll
+D:\ASP0218\CSharp\Dan06\Vozila\Vozila.Model\bin\Debug\Vozila.Model.pdb
+D:\ASP0218\CSharp\Dan06\Vozila\Vozila.Model\obj\Debug\Vozila.Model.dll
+D:\ASP0218\CSharp\Dan06\Vozila\Vozila.Model\obj\Debug\Vozila.Model.pdb
+C:\Users\andre\Desktop\Vozila\Vozila.Model\bin\Debug\Vozila.Model.dll
+C:\Users\andre\Desktop\Vozila\Vozila.Model\bin\Debug\Vozila.Model.pdb
+C:\Users\andre\Desktop\Vozila\Vozila.Model\obj\Debug\Vozila.Model.csprojResolveAssemblyReference.cache
+C:\Users\andre\Desktop\Vozila\Vozila.Model\obj\Debug\Vozila.Model.dll
+C:\Users\andre\Desktop\Vozila\Vozila.Model\obj\Debug\Vozila.Model.pdb
+C:\Users\andre\Desktop\C# & .NET - Algebra\AlgebraZadaciZbirka\Vozila\Vozila.Model\bin\Debug\Vozila.Model.dll
+C:\Users\andre\Desktop\C# & .NET - Algebra\AlgebraZadaciZbirka\Vozila\Vozila.Model\bin\Debug\Vozila.Model.pdb
+C:\Users\andre\Desktop\C# & .NET - Algebra\AlgebraZadaciZbirka\Vozila\Vozila.Model\obj\Debug\Vozila.Model.csprojResolveAssemblyReference.cache
+C:\Users\andre\Desktop\C# & .NET - Algebra\AlgebraZadaciZbirka\Vozila\Vozila.Model\obj\Debug\Vozila.Model.dll
+C:\Users\andre\Desktop\C# & .NET - Algebra\AlgebraZadaciZbirka\Vozila\Vozila.Model\obj\Debug\Vozila.Model.pdb

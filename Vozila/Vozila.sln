@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vozila.Konzola", "Vozila.Konzola\Vozila.Konzola.csproj", "{4782836B-1EEF-4315-A94B-881DA1F44627}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vozila.Model", "Vozila.Model\Vozila.Model.csproj", "{FE71DC7F-6E5F-4A5C-9EA1-0BC8D4F64B98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vozila.Win32", "Vozila.Win32\Vozila.Win32.csproj", "{7CC6C769-88E0-4A08-9605-9CED88C46B1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4782836B-1EEF-4315-A94B-881DA1F44627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4782836B-1EEF-4315-A94B-881DA1F44627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4782836B-1EEF-4315-A94B-881DA1F44627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4782836B-1EEF-4315-A94B-881DA1F44627}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE71DC7F-6E5F-4A5C-9EA1-0BC8D4F64B98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE71DC7F-6E5F-4A5C-9EA1-0BC8D4F64B98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE71DC7F-6E5F-4A5C-9EA1-0BC8D4F64B98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE71DC7F-6E5F-4A5C-9EA1-0BC8D4F64B98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CC6C769-88E0-4A08-9605-9CED88C46B1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC6C769-88E0-4A08-9605-9CED88C46B1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC6C769-88E0-4A08-9605-9CED88C46B1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC6C769-88E0-4A08-9605-9CED88C46B1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

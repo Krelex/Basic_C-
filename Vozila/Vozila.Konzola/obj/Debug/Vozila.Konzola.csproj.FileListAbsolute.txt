@@ -1,0 +1,16 @@
+D:\ASP0218\CSharp\Dan06\Vozila\Vozila.Konzola\bin\Debug\Vozila.Konzola.exe.config
+D:\ASP0218\CSharp\Dan06\Vozila\Vozila.Konzola\bin\Debug\Vozila.Konzola.exe
+D:\ASP0218\CSharp\Dan06\Vozila\Vozila.Konzola\bin\Debug\Vozila.Konzola.pdb
+D:\ASP0218\CSharp\Dan06\Vozila\Vozila.Konzola\bin\Debug\Vozila.Model.dll
+D:\ASP0218\CSharp\Dan06\Vozila\Vozila.Konzola\bin\Debug\Vozila.Model.pdb
+D:\ASP0218\CSharp\Dan06\Vozila\Vozila.Konzola\obj\Debug\Vozila.Konzola.csprojResolveAssemblyReference.cache
+D:\ASP0218\CSharp\Dan06\Vozila\Vozila.Konzola\obj\Debug\Vozila.Konzola.exe
+D:\ASP0218\CSharp\Dan06\Vozila\Vozila.Konzola\obj\Debug\Vozila.Konzola.pdb
+C:\Users\andre\Desktop\Vozila\Vozila.Konzola\bin\Debug\Vozila.Konzola.exe.config
+C:\Users\andre\Desktop\Vozila\Vozila.Konzola\obj\Debug\Vozila.Konzola.exe
+C:\Users\andre\Desktop\Vozila\Vozila.Konzola\obj\Debug\Vozila.Konzola.pdb
+C:\Users\andre\Desktop\Vozila\Vozila.Konzola\bin\Debug\Vozila.Konzola.exe
+C:\Users\andre\Desktop\Vozila\Vozila.Konzola\bin\Debug\Vozila.Konzola.pdb
+C:\Users\andre\Desktop\Vozila\Vozila.Konzola\bin\Debug\Vozila.Model.dll
+C:\Users\andre\Desktop\Vozila\Vozila.Konzola\bin\Debug\Vozila.Model.pdb
+C:\Users\andre\Desktop\Vozila\Vozila.Konzola\obj\Debug\Vozila.Konzola.csprojResolveAssemblyReference.cache
