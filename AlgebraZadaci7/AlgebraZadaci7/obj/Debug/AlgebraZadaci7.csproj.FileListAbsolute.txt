@@ -1,0 +1,6 @@
+C:\Users\andre\Desktop\C# & .NET - Algebra\az4\AlgebraZadaci7\AlgebraZadaci7\bin\Debug\AlgebraZadaci7.exe.config
+C:\Users\andre\Desktop\C# & .NET - Algebra\az4\AlgebraZadaci7\AlgebraZadaci7\bin\Debug\AlgebraZadaci7.exe
+C:\Users\andre\Desktop\C# & .NET - Algebra\az4\AlgebraZadaci7\AlgebraZadaci7\bin\Debug\AlgebraZadaci7.pdb
+C:\Users\andre\Desktop\C# & .NET - Algebra\az4\AlgebraZadaci7\AlgebraZadaci7\obj\Debug\AlgebraZadaci7.exe
+C:\Users\andre\Desktop\C# & .NET - Algebra\az4\AlgebraZadaci7\AlgebraZadaci7\obj\Debug\AlgebraZadaci7.pdb
+C:\Users\andre\Desktop\C# & .NET - Algebra\az4\AlgebraZadaci7\AlgebraZadaci7\obj\Debug\AlgebraZadaci7.csprojResolveAssemblyReference.cache

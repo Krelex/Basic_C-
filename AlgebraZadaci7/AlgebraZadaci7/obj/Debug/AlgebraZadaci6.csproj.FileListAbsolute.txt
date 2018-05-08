@@ -1,0 +1,6 @@
+C:\Users\andre\AppData\Local\Temporary Projects\AlgebraZadaci6\bin\Debug\AlgebraZadaci6.exe.config
+C:\Users\andre\AppData\Local\Temporary Projects\AlgebraZadaci6\bin\Debug\AlgebraZadaci6.exe
+C:\Users\andre\AppData\Local\Temporary Projects\AlgebraZadaci6\bin\Debug\AlgebraZadaci6.pdb
+C:\Users\andre\AppData\Local\Temporary Projects\AlgebraZadaci6\obj\Debug\AlgebraZadaci6.csprojResolveAssemblyReference.cache
+C:\Users\andre\AppData\Local\Temporary Projects\AlgebraZadaci6\obj\Debug\AlgebraZadaci6.exe
+C:\Users\andre\AppData\Local\Temporary Projects\AlgebraZadaci6\obj\Debug\AlgebraZadaci6.pdb
