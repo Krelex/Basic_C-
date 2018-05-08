@@ -1,0 +1,9 @@
+002
+497
+20.4.2018. 19:14:54
+Dalibor Brun
+Ava Karabatić
+----
+1.|Banana|12|34|408
+2.|Kiwi|2|34|68
+3.|Majonaise|3|7|21

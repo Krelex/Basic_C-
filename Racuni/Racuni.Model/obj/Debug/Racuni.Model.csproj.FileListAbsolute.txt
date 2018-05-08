@@ -1,0 +1,10 @@
+D:\ASP0218\CSharp\Dan12\Racuni\Racuni.Model\bin\Debug\Racuni.Model.dll
+D:\ASP0218\CSharp\Dan12\Racuni\Racuni.Model\bin\Debug\Racuni.Model.pdb
+D:\ASP0218\CSharp\Dan12\Racuni\Racuni.Model\obj\Debug\Racuni.Model.csprojResolveAssemblyReference.cache
+D:\ASP0218\CSharp\Dan12\Racuni\Racuni.Model\obj\Debug\Racuni.Model.dll
+D:\ASP0218\CSharp\Dan12\Racuni\Racuni.Model\obj\Debug\Racuni.Model.pdb
+C:\Users\andre\Downloads\Dan12\Racuni\Racuni.Model\bin\Debug\Racuni.Model.dll
+C:\Users\andre\Downloads\Dan12\Racuni\Racuni.Model\bin\Debug\Racuni.Model.pdb
+C:\Users\andre\Downloads\Dan12\Racuni\Racuni.Model\obj\Debug\Racuni.Model.csprojResolveAssemblyReference.cache
+C:\Users\andre\Downloads\Dan12\Racuni\Racuni.Model\obj\Debug\Racuni.Model.dll
+C:\Users\andre\Downloads\Dan12\Racuni\Racuni.Model\obj\Debug\Racuni.Model.pdb

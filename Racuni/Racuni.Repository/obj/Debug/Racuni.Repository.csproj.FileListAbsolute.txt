@@ -1,0 +1,14 @@
+D:\ASP0218\CSharp\Dan12\Racuni\Racuni.Repository\bin\Debug\Racuni.Repository.dll
+D:\ASP0218\CSharp\Dan12\Racuni\Racuni.Repository\bin\Debug\Racuni.Repository.pdb
+D:\ASP0218\CSharp\Dan12\Racuni\Racuni.Repository\bin\Debug\Racuni.Model.dll
+D:\ASP0218\CSharp\Dan12\Racuni\Racuni.Repository\bin\Debug\Racuni.Model.pdb
+D:\ASP0218\CSharp\Dan12\Racuni\Racuni.Repository\obj\Debug\Racuni.Repository.csprojResolveAssemblyReference.cache
+D:\ASP0218\CSharp\Dan12\Racuni\Racuni.Repository\obj\Debug\Racuni.Repository.dll
+D:\ASP0218\CSharp\Dan12\Racuni\Racuni.Repository\obj\Debug\Racuni.Repository.pdb
+C:\Users\andre\Downloads\Dan12\Racuni\Racuni.Repository\bin\Debug\Racuni.Repository.dll
+C:\Users\andre\Downloads\Dan12\Racuni\Racuni.Repository\bin\Debug\Racuni.Repository.pdb
+C:\Users\andre\Downloads\Dan12\Racuni\Racuni.Repository\bin\Debug\Racuni.Model.dll
+C:\Users\andre\Downloads\Dan12\Racuni\Racuni.Repository\bin\Debug\Racuni.Model.pdb
+C:\Users\andre\Downloads\Dan12\Racuni\Racuni.Repository\obj\Debug\Racuni.Repository.csprojResolveAssemblyReference.cache
+C:\Users\andre\Downloads\Dan12\Racuni\Racuni.Repository\obj\Debug\Racuni.Repository.dll
+C:\Users\andre\Downloads\Dan12\Racuni\Racuni.Repository\obj\Debug\Racuni.Repository.pdb
